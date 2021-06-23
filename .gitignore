@@ -116,6 +116,7 @@ celerybeat.pid
 # .env
 .env/
 .venv/
+credentials.py
 env/
 venv/
 ENV/
